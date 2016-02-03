@@ -11,17 +11,12 @@
   "dependencies": {
   },
   "devDependencies": {
-    "postcss-simple-vars": "1.1.0",
-    "postcss-nested-props": "1.0.0",
+    "postcss-modules-extract-imports": "1.0.0",
+    "postcss-modules-local-by-default": "1.0.0",
+    "postcss-modules-scope": "1.0.0",
     "postcss-modules-values": "1.1.1",
     "postcss-nested": "1.0.0",
-    "postcss-color-hex-alpha": "2.0.0",
-    "postcss-media-minmax": "2.1.0",
-    "postcss-pseudo-class-any-link": "1.0.0",
-    "postcss-selector-not": "2.0.0",
-    "postcss-modules-local-by-default": "1.0.0",
-    "postcss-modules-extract-imports": "1.0.0",
-    "postcss-modules-scope": "1.0.0"
+    "postcss-simple-vars": "1.1.0"
   },
   "cssModules": {
     "plugins": {
@@ -36,13 +31,8 @@
           "client/fonts.json"
         ]
       },
-      "postcss-nested-props": {},
       "postcss-modules-values": {},
       "postcss-nested": {},
-      "postcss-color-hex-alpha": {},
-      "postcss-media-minmax": {},
-      "postcss-pseudo-class-any-link": {},
-      "postcss-selector-not": {},
       "postcss-modules-local-by-default": {},
       "postcss-modules-extract-imports": {},
       "postcss-modules-scope": {}
