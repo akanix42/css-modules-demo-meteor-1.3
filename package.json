@@ -21,7 +21,7 @@
     "postcss-simple-vars": "1.1.0"
   },
   "cssModules": {
-    "plugins": {
+    "postcssPlugins": {
       "postcss-simple-vars": {
         "inlineOptions": {
           "variables": {
